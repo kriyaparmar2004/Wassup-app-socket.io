@@ -72,9 +72,10 @@ section.chat__section {
     color: #444;
     margin-left: 10px;
 }
-.message__area{
+.message_area{
+    width: 800px;
     height: 500px;
-    padding: 16px;
+    padding: 20px;
     display: flex;
     flex-direction: column;
     overflow-y: auto;
